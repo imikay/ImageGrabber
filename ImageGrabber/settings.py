@@ -21,12 +21,12 @@ IM_MODULE      = 'ImageGrabber.pipelines.MyImagePipeline'
 ITEM_PIPELINES = ['ImageGrabber.pipelines.MyImagePipeline']
 
 # Where we store the images, in this case they will be stored 
-# in E:/ImageGrabber/full directory.
+# in E:/ImageGrabber/full directory. Change this to meet your needs.
 IMAGES_STORE = 'E:/ImageGrabber'
 
 # Specify the min height and width of the image to download
-IMAGES_MIN_HEIGHT = 110
-IMAGES_MIN_WIDTH  = 110
+IMAGES_MIN_HEIGHT = 768
+IMAGES_MIN_WIDTH  = 1024
 
 
 
