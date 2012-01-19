@@ -3,7 +3,7 @@ ImageGrabber is a Scrapy demo for grabbing images from a website.
 This is a simplified version of my original one, which is written
 to download all images from a site for entertainment purpose. 
 
-I removed the validation and database support from the original one, and share the rest with others who are looking
+I removed the validation and database support from the origin, and share the rest with others who are looking
 for some examples to create their own spiders.
 
 The URLs in the source is just a placeholder picked by random, so
