@@ -1,8 +1,1 @@
 ImageGrabber is a Scrapy demo for downloading images from a website.
-
-This is a simplified version of my original one, I removed the validation and database supporting parts and share the rest with others who are looking
-for some examples to kick start their own Scrapy project.
-
-The URLs in the source is just placeholders, you need to change to your own's.
-
-BTW, I am rather new to Python, so don't expect too much from me.
